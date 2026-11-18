@@ -1,2 +1,1 @@
-# AI-SQL-Query-Optimizer
-AI-powered SQL query analysis and optimization for smarter, faster, and more efficient database operations.
+An AI-powered SQL Query Optimizer designed to analyze, rewrite, and optimize SQL queries for better performance and efficiency. The system aims to identify inefficient query patterns, suggest optimized alternatives, and help developers understand query execution and improve database performance using AI and intelligent optimization techniques.
